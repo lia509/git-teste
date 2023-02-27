@@ -16,7 +16,8 @@ form{
 }
 .input{
     border-radius: 5px;
-    color: #fff;
+    color: black;
+    margin: 10px;
 }
 .input:hover{
     background-color: rgb(144, 197, 231);
